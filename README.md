@@ -1,5 +1,6 @@
 # Hi, It's Deniz 🐉
 
+
 ####  Fond of coding and developing apps.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -7,6 +8,7 @@
 
 ### Email:
 #### lenispath@gmail.com
+#### Scroll down to check the apps I made.🌠
 ---------------------------------------------------------------------------- 
 ## GF Followers
 ![unnamed](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/17fc9f3e-b9a3-4e29-a21d-788f81311f5c)
