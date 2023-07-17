@@ -6,4 +6,5 @@ An application about GitHub user profile, followers and favorites. Developed by 
 
 ![0](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/91d922d4-9463-477e-a747-663e3e33c727)
 
-https://media0.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif?cid=ecf05e47i4wq16vd71ba5lkv2eh80k09qt5w0vxzrl50zzwm&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![giphy](https://github.com/DDilbilir0700/DDilbilir0700/assets/136610570/5c3dda74-8977-4472-bf78-cd12e6fb5b22)
+
