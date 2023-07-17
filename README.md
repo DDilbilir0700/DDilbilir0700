@@ -1,4 +1,14 @@
-### 
+# Hi, It's Deniz 🐉
+
+####  I'm fond of coding and developing apps.
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+### Email:
+#### lenispath@gmail.com
+---------------------------------------------------------------------------- 
+
 
 ![unnamed](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/17fc9f3e-b9a3-4e29-a21d-788f81311f5c)
 
