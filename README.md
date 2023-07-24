@@ -1,4 +1,4 @@
-# Hi, It's Deniz 🐉
+# Hi 🐉
 
 
 ####  Fond of coding and developing apps.
